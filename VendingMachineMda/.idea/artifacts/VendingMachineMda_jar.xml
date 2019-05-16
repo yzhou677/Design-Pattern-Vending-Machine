@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VendingMachineMda:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VendingMachineMda_jar</output-path>
+    <root id="archive" name="VendingMachineMda.jar">
+      <element id="module-output" name="VendingMachineMda" />
+    </root>
+  </artifact>
+</component>
